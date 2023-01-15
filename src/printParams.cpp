@@ -1,4 +1,4 @@
-#pragma once
+#include "printParams.h"
 #include <iostream>
 
 void printParams(Shape *shape) { 
